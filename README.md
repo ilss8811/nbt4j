@@ -1,2 +1,2 @@
-# nbt4j
+# NBT4J
 NBT Library for Java
